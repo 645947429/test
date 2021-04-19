@@ -9,10 +9,10 @@ print("hello world")
 print("hello world")
 
 
+print("hello dog")
 
 
+print("hello dog")
 
-print("hello world")
 
-
-print("hello world")
+print("hello dog")
